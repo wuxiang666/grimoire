@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.ddahl:rscala_2.11:2.2.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.ddahl/rscala_2.11/jars/rscala_2.11-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/rscala_2.11-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

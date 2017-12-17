@@ -1,0 +1,53 @@
+clean
+projects
+clean
+package
+clean
+package
+clean
+projects
+project zeppelin
+projects
+clean
+package
+projects
+clean
+package
+clean
+package
+clean
+projects
+project ml
+clean
+compile
+assembly
+compile
+assembly
+cat `which sbt`
+cat 'which sbt'
+assembly
+package
+assembly
+compile
+assembly
+compile
+assembly
+sbtversion
+clean 
+compile
+assembly
+asembly
+assembly
+compile
+assembly
+compile
+assembly
+compile
+assembly
+compile
+assembly
+compile
+clean
+compile
+sbt clean
+clean

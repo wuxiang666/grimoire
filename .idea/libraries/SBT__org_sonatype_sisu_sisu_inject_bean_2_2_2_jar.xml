@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.sonatype.sisu:sisu-inject-bean:2.2.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.sonatype.sisu/sisu-inject-bean/bundles/sisu-inject-bean-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,54 @@
+{
+  "Declaration":{
+    "Spell":[
+      {
+        "Class":"rdd-line-split-spell",
+        "Separator":"\\s+",
+        "NumField":2
+      },
+      {
+        "Class":"to-data-frame-spell",
+        "Schema":"id int,content string"
+      },
+      {
+        "Class":"data-frame-segment-spell",
+        "InputCol":"content",
+        "OutputCol":"segmented"
+      },
+      {
+        "Class":"data-frame-tf-vectorize-spell",
+        "InputCol":"segmented",
+        "OutputCol":"tf"
+      },
+      {
+        "Class":"idf-train-spell",
+        "InputCol":"tf"
+      },
+      {
+        "Class":"data-frame-tfidf-vectorize-spell",
+        "InputCol":"tf",
+        "OutputCol":"tfidf"
+      },
+      {
+        "Class":"model-target",
+        "OutputPath":"model/idf2",
+        "Overwrite":true
+      },
+      {
+        "Class":"data-frame-target",
+        "OutputPath":"data/tfidf",
+        "WriteMethod":"json"
+      }
+    ]
+  },
+  "Execution":{
+    "Combo":[
+      {
+        "UID":"c1",
+        "Content":"rdd-line-split-spell~to-data-frame-spell~data-frame-segment-spell~data-frame-tf-vectorize-spell"
+      }
+    ],
+    "ToSpell":"c1"
+  }
+
+}

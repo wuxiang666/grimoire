@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.zeppelin:zeppelin-display_2.11:0.7.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.zeppelin/zeppelin-display_2.11/jars/zeppelin-display_2.11-0.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

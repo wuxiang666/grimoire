@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.iml" filepath="$PROJECT_DIR$/.idea/modules/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-build.iml" filepath="$PROJECT_DIR$/.idea/modules/common-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-build.iml" filepath="$PROJECT_DIR$/.idea/modules/core-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grimoire.iml" filepath="$PROJECT_DIR$/.idea/modules/grimoire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grimoire-build.iml" filepath="$PROJECT_DIR$/.idea/modules/grimoire-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/job.iml" filepath="$PROJECT_DIR$/.idea/modules/job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/job-build.iml" filepath="$PROJECT_DIR$/.idea/modules/job-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ml.iml" filepath="$PROJECT_DIR$/.idea/modules/ml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ml-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ml-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nlp.iml" filepath="$PROJECT_DIR$/.idea/modules/nlp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nlp-build.iml" filepath="$PROJECT_DIR$/.idea/modules/nlp-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/operation.iml" filepath="$PROJECT_DIR$/.idea/modules/operation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/operation-build.iml" filepath="$PROJECT_DIR$/.idea/modules/operation-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service.iml" filepath="$PROJECT_DIR$/.idea/modules/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-build.iml" filepath="$PROJECT_DIR$/.idea/modules/service-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark.iml" filepath="$PROJECT_DIR$/.idea/modules/spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streaming.iml" filepath="$PROJECT_DIR$/.idea/modules/streaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streaming-build.iml" filepath="$PROJECT_DIR$/.idea/modules/streaming-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util-build.iml" filepath="$PROJECT_DIR$/.idea/modules/util-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zeppelin.iml" filepath="$PROJECT_DIR$/.idea/modules/zeppelin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zeppelin-build.iml" filepath="$PROJECT_DIR$/.idea/modules/zeppelin-build.iml" />
+    </modules>
+  </component>
+</project>
